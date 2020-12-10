@@ -1,2 +1,2 @@
-# hw9.3-Model-assessment-for-microtubule-catastrophe
-Analysis of Mathematical Models for Cellular Microtubule Catastrophe
+# Analysis of Mathematical Models for Cellular Microtubule Catastrophe
+hw9.3_model_assessment_of_microtubule_catastrophe
